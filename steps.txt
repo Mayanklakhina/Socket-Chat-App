@@ -1,0 +1,15 @@
+create npm project  (npm init)
+
+create front end part (html ,css, js)
+
+install dependencies (express nodemon socket.io)
+
+create an express app/server
+
+configure or setup the socket.io in server and client part
+
+if one client sending message, create logic
+
+recieve the message on server and broadcast the msg to client or another user, create logic
+
+recieve the message on another client part and we have to display that, create logic
